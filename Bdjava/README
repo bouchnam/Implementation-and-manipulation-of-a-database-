@@ -1,0 +1,7 @@
+Pour exécuter un fichier test name.java contenu dans src : 
+1/ make all
+2/ make name
+
+Exemple : 
+1/ make all 
+2/ make ApplicationBD
